@@ -1,6 +1,6 @@
 {
   "name": "influx-statsd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description":
     "\"An microservices application metrics sender to the statsd listener for node.js application over udp\"",
   "main": "index.js",

@@ -1,0 +1,24 @@
+{
+  "name": "influx-statsd",
+  "version": "0.0.1",
+  "description":
+    "\"An microservices application metrics sender to the statsd listener for node.js application over udp\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankur-anand/node-influxdb-statsd.git"
+  },
+  "author": "Ankur Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankur-anand/node-influxdb-statsd/issues"
+  },
+  "homepage": "https://github.com/ankur-anand/node-influxdb-statsd#readme",
+  "dependencies": {
+    "appmetrics": "^3.1.3",
+    "node-statsd": "^0.1.1"
+  }
+}
